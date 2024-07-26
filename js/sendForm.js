@@ -22,7 +22,7 @@ export default async function sendForm(e) {
   let numAlumnos = parseInt(sessionStorage.getItem("numAlumno"));
 
   for (let i = 1; i <= numAlumnos; i++) {
-    const grado = d.getElementById(`grado-${i}`).value,
+    let grado = d.getElementById(`grado-${i}`).value,
       grupo = d.getElementById(`grupo-${i}`).value,
       nameAlumno = d.getElementById(`name-alumno-${i}`).value,
       apAlumno = d.getElementById(`ap-alumno-${i}`).value,
