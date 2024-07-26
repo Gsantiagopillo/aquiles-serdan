@@ -1,0 +1,22 @@
+{
+    "montserrat": {
+        "100_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_100_italic_29a3d0d48c3a496fc38ee2fc5de2631b",
+        "200_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_200_italic_4f44b4854d41b03700416102651740ec",
+        "300_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_300_italic_f470586e928fb1e2bea7ffacde83d542",
+        "italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_italic_1d1c7e486829cf767bd74448043320cc",
+        "500_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_500_italic_ec3f60b6c54e8ee79661303766ef10c4",
+        "600_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_600_italic_766e7b3599c3644a98ca78f9ec673c56",
+        "bold_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_bold_italic_09d0c6b0a1a677f9f012e260fdb4573e",
+        "800_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_800_italic_b0b9e966ccaf0f151b509d68b7cf0836",
+        "900_italic": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_900_italic_418e9230abda42742236ce2b5271c664",
+        "100": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_100_6164641e1084aad4a517246be4e7214d",
+        "200": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_200_a265b0c8dd3071bb837672a6a3428c47",
+        "300": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_300_11be3eb1825a588a468235740322e12d",
+        "normal": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_normal_00833106404dc8458cdfb436c759f23d",
+        "500": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_500_1236ec90acb329158f494b3fcb44327e",
+        "600": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_600_485729d96603ccf9729bf58de2db0851",
+        "bold": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_bold_5da7810bf4e960efe50d20e94a894069",
+        "800": "D:\\proyectos-web\\mesa-servicio\\api\\v1.0\\reportes\\libreria\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_800_bb4fb217ae8181e31fdcc24e6f32a5f3",
+        "900": "montserrat_900_f1f1d05ddbc7bae79cf2388a44df7c8f"
+    }
+}
