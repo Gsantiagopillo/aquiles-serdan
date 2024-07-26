@@ -85,7 +85,7 @@ export default async function sendForm(e) {
       alert(`Ocurrio un error: ${json.statusText}`);
     } else {
       alert("Se han enviado los datos correctamente");
-      location.reload;
+      location.reload();
     }
 
     //console.log(res, json);
