@@ -5,7 +5,7 @@ export default async function sendForm(e) {
 
   d.querySelector(".load").style.display = "flex";
 
-  const selectTutor = d.getElementById("select-tutor").value,
+  let selectTutor = d.getElementById("select-tutor").value,
     nameTutor = d.getElementById("name-tutor").value,
     apTutor = d.getElementById("ap-tutor").value,
     amTutor = d.getElementById("am-tutor").value,
