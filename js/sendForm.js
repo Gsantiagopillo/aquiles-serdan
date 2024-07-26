@@ -12,8 +12,8 @@ export default async function sendForm(e) {
     email = d.getElementById("email").value,
     tel = d.getElementById("tel").value;
 
-  console.log($selectTutor);
-  if ($selectTutor.value === "") {
+  console.log(selectTutor);
+  if (selectTutor.value === "") {
     alert("debe Seleccionar si es padre, madre o tutor");
     return;
   }
