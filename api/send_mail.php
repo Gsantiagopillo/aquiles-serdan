@@ -245,7 +245,7 @@ ob_start();
 
     .comprobante {
       border-bottom: medium solid black;
-      background-image: url(./assets/logo-aquiles-serdan-1.png);
+      background-image: url(./assets/logo-aquiles-serdan-blur.png);
       background-position: center;
       background-repeat: no-repeat;
       background-size: auto;
