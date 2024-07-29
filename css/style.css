@@ -40,8 +40,8 @@ header {
   box-shadow: -1rem -1rem 1rem 1rem rgba(68, 68, 68, 0.333);
   background-image: linear-gradient(
     90deg,
-    #0303b5,
-    #0404e2
+   rgba(3,3,181,255,
+    rgba(3,3,226,255)
   );
   color: white;
 }
@@ -110,8 +110,8 @@ footer {
   /* background-color: rgba(14, 104, 86, 255); */
   background-image: linear-gradient(
     90deg,
-    rgba(14, 98, 98, 255),
-    rgba(1, 114, 68, 255)
+    rgba(3,3,181,255),
+    rgba(3,3,226,255)
   );
   color: white;
   font-size: 0.8rem;
