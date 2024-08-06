@@ -36,8 +36,8 @@ export default async function sendForm(e) {
     amAlumno =
       amAlumno.charAt(0).toUpperCase() + amAlumno.slice(1).toLowerCase();
 
-    if (grado === "" || grupo === "") {
-      alert(`debe Seleccionar el grado y grupo de los alumno: ${i}`);
+    if (grado === "") {
+      alert(`debe Seleccionar el grado del alumno: ${i}`);
       return;
     }
 
